@@ -1,0 +1,2 @@
+# mindmentor-apple
+ platforms support
